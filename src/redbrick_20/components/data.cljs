@@ -19,7 +19,7 @@
   :event-title "Event Details"
   :event-location "Opium Cafe, Wexford St, Dublin"
   :event-tickets "https://ti.to/Redbrick-DCU/redbricks-20th-birthday"
-  :event-date "9th of April"
+  :event-date "9th of April, 7pm - 11pm"
   :event-information "TBA"}))
 
 (def donationGoals (reagent/atom [
